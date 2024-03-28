@@ -17,19 +17,19 @@ Interested in automating and scaling
 
 # Professional and Leadership Experience
 ------
-## Fever          Growth Analyst        Sep 2023 - Present
+Fever          Growth Analyst        Sep 2023 - Present
 
-## U.S. Soccer    Data Science / Machine Learning     Aug 2022 - March 2023
+U.S. Soccer    Data Science / Machine Learning     Aug 2022 - March 2023
 
-## BRASA        Data Analyst / Data Manager       Jan 2021 - Dec 2022
+BRASA        Data Analyst / Data Manager       Jan 2021 - Dec 2022
 
 # Education
 
-## Bentley University       May 2023
+Bentley University       May 2023
 - Bachelor of Science, Computer Science (CIS)
 - Cum Laude, President's List, Dean's List
 
-## The London School of Economics and Political Science   Sep 2021 - Jun 2022
+The London School of Economics and Political Science   Sep 2021 - Jun 2022
 - General Course Program 
 
 # Technical and Language Skills
