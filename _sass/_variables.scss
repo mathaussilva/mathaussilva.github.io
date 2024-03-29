@@ -43,7 +43,7 @@ $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
 /* masthead properties */
-$masthead-height            : 30px;
+$masthead-height            : 50px;
 
 /*
    Colors
@@ -55,11 +55,11 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
+$body-color                 : #000;
 $background-color           : #000;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : $gray;
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
