@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Mathaus' Homepage"
-title_separator          : "-"
+title_separator          : # "-"
 name                     : &name "Mathaus Silva"
 description              : &description "Data, ML, and AI Enthusiast"
 url                      : https://mathaussilva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : # "" the subpath of your site, e.g. "/blog"
 repository               : "mathaussilva/mathaussilva.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
