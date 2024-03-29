@@ -7,14 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+🎓 Recent college graduate from Bentley University and the London School of Economics and Political Science.
 
-#### 🎓 Recent college graduate from Bentley University and the London School of Economics
+🌎 Lived in São Paulo, Boston, London, and Chicago.
 
-#### 🌎 Previously lived in São Paulo, Boston, London, Chicago, and now Madrid
+🚀 Interested in solving complex, real-life problems using Data Science, Machine Learning, and AI.
 
-#### 🚀 Interested in automating and scaling
+🚀 Data Science, Machine Learning, and Artificial Intelligence enthusiast.
 
-## Projects:
+## Recent Projects
 ![João Cancelo's Defensive Contribution](/images/defensive_contribution.png){: .align-left width="300px" height="300px"}
 
 [MatchMetrics](https://github.com/academicpages/academicpages.github.io)
