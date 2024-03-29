@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-### 🎓 Recent college graduate from Bentley University and the London School of Economics
+#### 🎓 Recent college graduate from Bentley University and the London School of Economics
 
-### 🌎 Previously lived in São Paulo, Boston, London, Chicago, and now Madrid
+#### 🌎 Previously lived in São Paulo, Boston, London, Chicago, and now Madrid
 
-### 🚀 Interested in automating and scaling
+#### 🚀 Interested in automating and scaling
 
 ## Projects:
 ![João Cancelo's Defensive Contribution](/images/defensive_contribution.png){: .align-left width="300px" height="300px"}
