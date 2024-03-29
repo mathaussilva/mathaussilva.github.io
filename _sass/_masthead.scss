@@ -14,7 +14,7 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
-  z-index: 20;
+  z-index: 50;
 
   &__inner-wrap {
     @include container;
@@ -39,8 +39,8 @@
 .masthead__menu {
 
   ul {
-    margin: 20;
-    padding: 20;
+    margin: 0;
+    padding: 0;
     clear: both;
     list-style-type: none;
   }
