@@ -20,7 +20,6 @@ redirect_from:
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages.
 
-<a href="https://github.com/academicpages/academicpages.github.io" class="button primary">Read more</a> 
-<a href="https://github.com/academicpages/academicpages.github.io" class="button">Github Repo</a>
+<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
 
 ## Let's Talk
