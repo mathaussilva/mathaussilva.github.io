@@ -23,11 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Mathaus Silva"
-  pronouns         : "he/him"  
-  bio              : "Growth Analyst"
+  pronouns         : # "he/him"  
+  bio              : "Growth Analyst @ Fever"
   location         : "Madrid, Spain"
   employer         : "Bentley University"
-  employer         : "London School of Economics" 
   uri              : # URL
   email            : "hello@mathaussilva.com" 
 

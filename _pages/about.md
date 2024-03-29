@@ -7,16 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 🎓 Recent college graduate from Bentley University and the London School of Economics
-
 🌎 Previously lived in São Paulo, Boston, London, Chicago, and now Madrid
-
 🚀 Interested in automating and scaling
 
 # Projects
 ------
-Fever          Growth Analyst        Sep 2023 - Present
+![João Cancelo's Defensive Contribution](/images/defensive_contribution.png){: .align-left width="300px" height="300px"}
+MatchMetrics
+## MatchMetrics
+### MatchMetrics
+#### MatchMetrics
+##### MatchMetrics
 
 U.S. Soccer    Data Science / Machine Learning     Aug 2022 - March 2023
 
