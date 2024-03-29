@@ -22,6 +22,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 <a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
 
+
 ![João Cancelo's Defensive Contribution](/images/defensive_contribution.png){: .align-left width="300px" height="300px"}
 
 [MatchMetrics](https://github.com/academicpages/academicpages.github.io)
