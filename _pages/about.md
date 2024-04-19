@@ -15,18 +15,6 @@ redirect_from:
 
 ## Recent Projects
 
----
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-tags:
-  - cool posts
-  - category1
-  - category2
----
-
-
 ![João Cancelo's Defensive Contribution](/images/defensive_contribution.png){: .align-left width="300px" height="300px"}
 
 [MatchMetrics](https://github.com/academicpages/academicpages.github.io)
