@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+- 🎓 Recent college graduate from Bentley University and the London School of Economics and Political Science.
 
 ![João Cancelo's Defensive Contribution](/images/defensive_contribution.png){: .align-left width="300px" height="300px"}
 
