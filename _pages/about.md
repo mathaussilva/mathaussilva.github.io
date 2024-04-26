@@ -13,7 +13,7 @@ redirect_from:
 
 - 🚀 Interested in solving real-life problems using Data Science, Machine Learning, and AI.
 
-## Recent Projects
+##
 
 ![João Cancelo's Defensive Contribution](/images/defensive_contribution.png){: .align-left width="300px" height="300px"}
 
