@@ -16,13 +16,13 @@ main:
     url: /year-archive/
 
   - title: "Rosetta"
-    url: /year-archive/
+    url: tags/#category1
 
-  - title: "Itinerate"
-    url: /year-archive/
+  # - title: "Itinerate"
+  #  url: /year-archive/
 
   - title: "MatchMetrics"
-    url: /year-archive/
+    url: /tags/#category2
     
   # - title: "CV"
   #  url: /cv/

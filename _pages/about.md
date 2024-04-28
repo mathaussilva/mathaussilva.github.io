@@ -12,13 +12,13 @@ redirect_from:
 
 ![João Cancelo's Defensive Contribution](/images/rosetta.png){: .align-left width="80px" height="80px"}
 
-<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">Rosetta</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.
+<a href="https://mathaussilva.github.io/tags/#category1">Rosetta</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.
 
 <br>
 
 ![João Cancelo's Defensive Contribution](/images/matchmetrics.png){: .align-left width="80px" height="80px"}
 
-<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">MatchMetrics</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.
+<a href="https://mathaussilva.github.io/tags/#category2">MatchMetrics</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.
 
 <br>
 
@@ -42,7 +42,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 [Messi vs Cristiano Ronaldo?](https://github.com/academicpages/academicpages.github.io)
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured...<br>
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured <a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">read more</a><br>
 
 <br>
 
@@ -50,7 +50,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 [How good was Prime Neymar?](https://github.com/academicpages/academicpages.github.io)
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured...<br>
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured <a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">read more</a><br>
 
 <br>
 
