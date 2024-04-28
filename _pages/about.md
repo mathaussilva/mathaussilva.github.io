@@ -7,26 +7,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br>
 
-![João Cancelo's Defensive Contribution](/images/rosetta.png){: .align-left width="160px" height="160px"}
+![João Cancelo's Defensive Contribution](/images/rosetta.png){: .align-left width="80px" height="80px"}
 
-<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">Rosetta </a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you
+<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">Rosetta </a> is like many other Jekyll-based GitHub Pages templates<br>
 
 <br>
 
-![João Cancelo's Defensive Contribution](/images/itinerate.png){: .align-left width="160px" height="160px"}
+![João Cancelo's Defensive Contribution](/images/itinerate.png){: .align-left width="80px" height="80px"}
 
-<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">Itinerate </a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you
-
-<br>
-
-![João Cancelo's Defensive Contribution](/images/matchmetrics.png){: .align-left width="160px" height="160px"}
+<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">Itinerate </a> is like many other Jekyll-based GitHub Pages templates<br>
 
 <br>
 
-<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">MatchMetrics </a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you
+![João Cancelo's Defensive Contribution](/images/matchmetrics.png){: .align-left width="80px" height="80px"}<br>
 
+<br>
 
+<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">MatchMetrics </a> is like many other Jekyll-based GitHub Pages templates<br>
+
+<br>
 
 ![João Cancelo's Defensive Contribution](/images/thumbnail0.png){: .align-left width="480px" height="270px"}
 
