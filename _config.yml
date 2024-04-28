@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mathaus' Homepage"
+title                    : "Mathaus Silva"
 title_separator          : # "-"
-name                     : &name "Mathaus Silva"
+name                     : &name "Mathaus"
 description              : &description "Data, ML, and AI Enthusiast"
 url                      : https://mathaussilva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "" the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "mathaussilva/mathaussilva.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Mathaus Silva"
+  name             : "Mathaus"
   pronouns         : # "he/him"  
   bio              : "Growth Analyst @ Fever"
   location         : "Madrid, Spain"
