@@ -29,15 +29,15 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 [Messi vs Cristiano Ronaldo?](https://github.com/academicpages/academicpages.github.io)
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured <a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">read more</a><br>
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured...<br>
 
 <br>
 
 ![João Cancelo's Defensive Contribution](/images/thumbnail4.png){: .align-left width="480px" height="270px"}
 
-[Prime Neymar?](https://github.com/academicpages/academicpages.github.io)
+[How good was Prime Neymar?](https://github.com/academicpages/academicpages.github.io)
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured <a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">read more</a><br>
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured...<br>
 
 <br>
 

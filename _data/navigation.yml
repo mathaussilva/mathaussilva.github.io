@@ -14,9 +14,18 @@ main:
         
   - title: "Posts"
     url: /year-archive/
+
+  - title: "Rosetta"
+    url: /year-archive/
+
+  - title: "Itinerate"
+    url: /year-archive/
+
+  - title: "MatchMetrics"
+    url: /year-archive/
     
   # - title: "CV"
   #  url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
