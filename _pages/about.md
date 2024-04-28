@@ -17,7 +17,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 <br>
 
-![João Cancelo's Defensive Contribution](/images/thumbnail2.png){: .align-left width="160px" height="90px"}
+![João Cancelo's Defensive Contribution](/images/thumbnail2.png){: .align-left width="320px" height="180px"}
 
 [MatchMetrics](https://github.com/academicpages/academicpages.github.io)
 
@@ -25,7 +25,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 <br>
 
-![João Cancelo's Defensive Contribution](/images/thumbnail3.png){: .align-left width="1600px" height="900px"}
+![João Cancelo's Defensive Contribution](/images/thumbnail3.png){: .align-left width="640px" height="360px"}
 
 [MatchMetrics](https://github.com/academicpages/academicpages.github.io)
 
