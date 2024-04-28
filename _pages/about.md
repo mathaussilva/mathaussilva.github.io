@@ -7,25 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br>
 
 ![João Cancelo's Defensive Contribution](/images/rosetta.png){: .align-left width="80px" height="80px"}
 
-<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">Rosetta </a> is like many other Jekyll-based GitHub Pages templates<br>
+<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">Rosetta</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.<br>
 
 <br>
 
 ![João Cancelo's Defensive Contribution](/images/itinerate.png){: .align-left width="80px" height="80px"}
 
-<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">Itinerate </a> is like many other Jekyll-based GitHub Pages templates<br>
+<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">Itinerate</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.<br>
 
 <br>
 
-![João Cancelo's Defensive Contribution](/images/matchmetrics.png){: .align-left width="80px" height="80px"}<br>
+![João Cancelo's Defensive Contribution](/images/matchmetrics.png){: .align-left width="80px" height="80px"}
 
-<br>
-
-<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">MatchMetrics </a> is like many other Jekyll-based GitHub Pages templates<br>
+<a href="https://dataprofessor.github.io/Ken_Portfolio/post/project-1/">MatchMetrics</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.<br>
 
 <br>
 
