@@ -9,7 +9,7 @@ redirect_from:
 ---
 - 🎓 Recent college graduate from Bentley University and the London School of Economics and Political Science.
 
-![João Cancelo's Defensive Contribution](/images/thumbnail1.png){: .align-left width="160px" height="90px"}
+![João Cancelo's Defensive Contribution](/images/thumbnail1.png){: .align-left width="320px" height="180px"}
 
 [MatchMetrics - ](https://github.com/academicpages/academicpages.github.io)
 
@@ -25,7 +25,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 <br>
 
-![João Cancelo's Defensive Contribution](/images/thumbnail3.png){: .align-left width="640px" height="360px"}
+![João Cancelo's Defensive Contribution](/images/thumbnail3.png){: .align-left width="480px" height="270px"}
 
 [MatchMetrics](https://github.com/academicpages/academicpages.github.io)
 
@@ -35,7 +35,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 <br>
 
-![João Cancelo's Defensive Contribution](/images/thumbnail4.png){: .align-left width="1600px" height="900px"}
+![João Cancelo's Defensive Contribution](/images/thumbnail4.png){: .align-left width="320px" height="180px"}
 
 [MatchMetrics](https://github.com/academicpages/academicpages.github.io)
 
