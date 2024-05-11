@@ -15,14 +15,14 @@ main:
   - title: "Posts"
     url: /year-archive/
 
-  - title: "Rosetta"
-    url: /tags/#category1
+  - title: "Kenji"
+    url: /tags/#Kenji
 
   # - title: "Itinerate"
   #  url: /year-archive/
 
   - title: "MatchMetrics"
-    url: /tags/#category2
+    url: /tags/#MatchMetrics
     
   # - title: "CV"
   #  url: /cv/
