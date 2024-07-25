@@ -12,13 +12,13 @@ redirect_from:
 
 ![João Cancelo's Defensive Contribution](/images/rosetta.png){: .align-left width="80px" height="80px"}
 
-<a href="https://mathaussilva.github.io/tags">Kenji</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.
+<a href="https://mathaussilva.github.io/tags/#Kenji">Kenji</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.
 
 <br>
 
 ![João Cancelo's Defensive Contribution](/images/matchmetrics.png){: .align-left width="80px" height="80px"}
 
-<a href="https://mathaussilva.github.io/tags">MatchMetrics</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.
+<a href="https://mathaussilva.github.io/tags/#MatchMetrics">MatchMetrics</a> is like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form.
 
 <br>
 
